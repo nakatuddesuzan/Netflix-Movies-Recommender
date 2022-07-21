@@ -1,3 +1,3 @@
 # Netflix-Movies-Recommender
 
-Using Multi-Armed Bandit for Recommendation
+### Using Multi-Armed Bandit for Recommendation

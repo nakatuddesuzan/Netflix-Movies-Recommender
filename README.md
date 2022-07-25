@@ -2,7 +2,7 @@
 
 This recommender system is designed on the approach of content-based filtering. The content based filtering method for this project is based on the actors, directors, titles and genres of the movies.
 
-The data set used for this recommender was created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in May 2022 containing data available in the United States. Hire is the link to the source of the data https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+The data set used for this recommender was created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in May 2022 containing data available in the United States. Here is the link to the source of the data https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 
 # Content
 
